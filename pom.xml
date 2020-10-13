@@ -23,7 +23,7 @@
         <cukespace.version>1.6.0</cukespace.version>
         <cucumber.version>1.2.4</cucumber.version>
         <tomee.version>1.7.2</tomee.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <javaee.version>6.0-6</javaee.version>
         <dbsetup.version>1.6.0</dbsetup.version>
     </properties>
